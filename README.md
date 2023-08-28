@@ -3,7 +3,6 @@
 
 The Flutter Quiz Application is a simple mobile app built using the Flutter framework that allows users to take quizzes on various topics. This application is designed to showcase the basics of creating a quiz-based app using Flutter and Dart.
 
-![App Demo](demo.gif)
 
 ## Features
 
